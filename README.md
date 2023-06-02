@@ -7,7 +7,7 @@ Basic CRUD operations
 4. Edit (Edit Form Page -> Update Page)
 5. Delete
 
-Add new database in phpmyadmin
-import database file to your database
+Add new database in phpmyadmin.
+import database file to your database.
 access project as: 
 localhost/PROJECT-FOLDER-PATH/index.php
